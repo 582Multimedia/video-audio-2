@@ -38,11 +38,11 @@ NOTE: Detailed assignment instructions available online.
 ##### EXERCISES 40%
 
 Looping Background Video
-WEEK 1
+WEEK 1 - jan 19 / 22
 Events
-WEEKS 2-6
+WEEKS 2-5/6 - jan 26 / 29 feb 2 / 5 / 9 / 12 / 16 / 20 / 23 / 26
 Interviews
-WEEKS 6-11
+WEEKS 8-11 - mar 16 / 19 (france) - mar 23 / 26 / 30 / apr 2 / 9 / 13
 
 ##### projects 40%
 
@@ -55,7 +55,7 @@ WEEK 11
 
 Personal Project
 (see website for details)
-WEEKS 11-15
+WEEKS 11-15 - apr 16 / 20 / 23 / 27 / 30 / may 4 / 7 / 11 / 14
 
 ## resources: general
 
