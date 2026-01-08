@@ -38,11 +38,11 @@ NOTE: Detailed assignment instructions available online.
 ##### EXERCISES 40%
 
 Looping Background Video
-WEEK 1 - jan 19 / 22
+WEEK 1 - jan 20 / 22
 Events
-WEEKS 2-5/6 - jan 26 / 29 feb 2 / 5 / 9 / 12 / 16 / 20 / 23 / 26
+WEEKS 2-5/6 - jan 27 / 29 feb 3 / 5 / 10 / 12 / 17 / 20 / 24 / 26
 Interviews
-WEEKS 8-11 - mar 16 / 19 (france) - mar 23 / 26 / 30 / apr 2 / 9 / 13
+WEEKS 8-11 - mar 17 / 19 (france) - mar 24 / 26 / 31 / apr 2 / 7 / 9
 
 ##### projects 40%
 
@@ -55,7 +55,26 @@ WEEK 11
 
 Personal Project
 (see website for details)
-WEEKS 11-15 - apr 16 / 20 / 23 / 27 / 30 / may 4 / 7 / 11 / 14
+WEEKS 11-15 - apr 16 / 20 / 23 / 28 / 30 / may 5 / 7 / 12
+
+| Week | Dates | Due | Plan |
+| --- | --- | --- | --- |
+| 01 | jan 20 / 22 | | |
+| 02 | jan 27 / 29 | Looping Background Video | |
+| 03 | feb 3 / 5 | | |
+| 04 | feb 10 / 12 | | |
+| 05 | feb 17 / 20 | | |
+| 06 | feb  24 / 26 | Event / Interview Project | |
+| 07 | mar 3 / 5 (Capython) | | |
+| break | mar 9 - 13 (France) | | |
+| 08 | mar 17 / 19 (France) | | |
+| 09 | mar 24 / 26 | | |
+| 10 | mar 31 / apr 2 (Vernissage Prep) | | |
+| 11 | apr 7 / 9 (Vernissage) | Event / Interview Project | |
+| 12 | apr 16 / 21 | | |
+| 13 | apr 23 / 28 (City Nature Challenge) | | |
+| 14 | apr 30 / may 5 | | |
+| 15 | apr 7 / 12 | Personal Project | |
 
 ## resources: general
 
