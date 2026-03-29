@@ -47,7 +47,7 @@ Requirements:
 
 Delivery format:
 
-You will choose between the following formats, a minimum mixture of **2 or more types of delivery formats below** for a total of minimum of 60-90 seconds:
+You will choose between the following formats, a minimum mixture of **2 or more types of delivery formats below** for a minimum delivery of 60-90 seconds of content:
 
 - Best Overall Length: 30 seconds (ideal balance for engagement and message delivery).
 - YouTube: 15–30 seconds is the sweet spot, though ads can be up to 3 minutes.
