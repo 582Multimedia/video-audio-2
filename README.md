@@ -43,17 +43,19 @@ You can choose the following approaches for the event:
 - ambient sound
 - good audio using mics if conducting testimonial / interview
 - motion graphics / transitions appropriate for the style of appraoch you have chosen for the event
-- deliver 90 seconds of final content (read below)
+- deliver 90 seconds of final content (see below)
 
 ##### Delivery format
 
-You will choose between the following formats, a minimum mixture of **2 or more types of delivery formats below** for a **minimum delivery of 90 seconds of content**:
+A minimum mixture of **2 or more types of delivery formats below** for a **minimum delivery of 90 seconds of content** is required (you can create multiple videos per platform, but you have to choose a minimum of 2 formats).
 
-- Best Overall Length: 30 seconds (ideal balance for engagement and message delivery).
+You will choose between the following formats / platform usage:
+
+- Best Overall Length (any platform): 30 seconds (ideal balance for engagement and message delivery).
 - YouTube: 15–30 seconds is the sweet spot, though ads can be up to 3 minutes.
 - Instagram/Facebook Feed: 15–30 seconds for optimal engagement, max 60+ minutes.
 - TikTok: 21–34 seconds performs best, up to 60 seconds.
-- 6-Second Ads: Ideal for brand awareness and fast-paced "bumper" ads.
+- 6-Second Ad (any platform): Ideal for brand awareness and fast-paced "bumper" ads.
 <!-- - Direct Response/Product Demos: 1–5 minutes can be effective to fully explain benefits and improve conversion. -->
 
 Optimal advertising video length typically ranges from 15 to 30 seconds for brand awareness and social media, while 30-60 seconds is best for engagement and in-depth storytelling. While shorter (6-second bumpers) work well on platforms like YouTube, longer videos (1–3 minutes) can be effective if they offer high value.
