@@ -35,7 +35,7 @@ You can choose the following approaches for the event:
 - Promo / hype an event (or future editions of the event)
 - Create a short documentary / news reporting of an event
 
-Requirements:
+##### Requirements
 
 - b-roll footage of the event (every shot length possible)
 - additional b-roll with branding (close-ups of items related to the event, camera movements recommended)
@@ -43,11 +43,11 @@ Requirements:
 - ambient sound
 - good audio using mics if conducting testimonial / interview
 - motion graphics / transitions appropriate for the style of appraoch you have chosen for the event
-- deliver 60-90 seconds of final content (read below)
+- deliver 90 seconds of final content (read below)
 
-Delivery format:
+##### Delivery format
 
-You will choose between the following formats, a minimum mixture of **2 or more types of delivery formats below** for a minimum delivery of 60-90 seconds of content:
+You will choose between the following formats, a minimum mixture of **2 or more types of delivery formats below** for a **minimum delivery of 90 seconds of content**:
 
 - Best Overall Length: 30 seconds (ideal balance for engagement and message delivery).
 - YouTube: 15–30 seconds is the sweet spot, though ads can be up to 3 minutes.
@@ -58,14 +58,14 @@ You will choose between the following formats, a minimum mixture of **2 or more 
 
 Optimal advertising video length typically ranges from 15 to 30 seconds for brand awareness and social media, while 30-60 seconds is best for engagement and in-depth storytelling. While shorter (6-second bumpers) work well on platforms like YouTube, longer videos (1–3 minutes) can be effective if they offer high value.
 
-Key Recommendations for Event Promo Lengths:
+###### Key Recommendations for Event Promo Lengths
 
 - 30–60 Seconds: Best for social media feeds, teaser trailers, and mobile viewers. These create urgency and engagement.
 - 60–90 Seconds: Ideal for landing pages, websites, or email marketing to provide enough information for registration.
 - 1–3 Minutes: Suitable for "hype videos" or recaps of past events that showcase the atmosphere and testimonials.
 - 6–15 Seconds: Effective for YouTube ads (pre-roll) or quick story clips.
 
-Best Practices for Event Videos:
+###### Best Practices for Event Videos
 
 - The "Rule of 3": Keep it short (30-90 seconds) to ensure higher retention rates.
 
