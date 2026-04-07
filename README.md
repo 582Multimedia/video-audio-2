@@ -2,6 +2,11 @@
 
 Video &amp; Audio Editing 2
 
+## NEW
+
+- [Screenwriting Crashcourse](./screenwriting.md)
+- [Screenwriting Notes and Tips](https://eduvaniercollegeqc-my.sharepoint.com/:f:/g/personal/ngy_vaniercollege_qc_ca/IgCuQw66uHWcSpIchqA3BNfIAU8BMFxrbPzaqJO-QnRfpWM?e=sTX9JS)
+
 ## tentative schedule and evaluation
 
 ### Exercises 40%
@@ -84,7 +89,8 @@ Optimal advertising video length typically ranges from 15 to 30 seconds for bran
 
 WEEK 15 - Live broadcast on the last class (May 7th / 12th)
 
-- script is required for both projects
+- [Screenwriting crashcourse](./screenwriting.md)
+- a detailed script is required for both the short film or the live webtv
 
 ## deliverables
 
